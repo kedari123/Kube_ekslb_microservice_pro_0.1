@@ -1,14 +1,7 @@
-# 🚀 JDKT Batch 09 – Learn With KASTRO
+# 🚀Devops Micro Service Project
 
-> 🎯 **Master DevOps with Real-Time Projects | Become Job-Ready in 50 Days**
+> 🎯 **My DevOps with self Made Project **
 
----
-
-## 📌 📚 Training Overview
-
-
-
----
 
 ## 🛠️ ⚙️ Core DevOps Stack
 
@@ -18,7 +11,7 @@
 
 ---
 
-## 🔧 🧰 Additional Tools Covered
+## 🔧 🧰Using  Additional Tools
 
 <p align="center">
 📦 Maven &nbsp;|&nbsp; 🐱 Tomcat &nbsp;|&nbsp; 📁 Nexus &nbsp;|&nbsp; 🔍 SonarQube &nbsp;|&nbsp; 🌐 Nginx  
@@ -57,38 +50,13 @@
 
 ---
 
-## 🎓 🎥 Free Demo Sessions
-
-- 📅 **Dates:** 07 & 08 May  
-- 🕠 **Time:** 5:30 PM  
-
-👉 *Meeting link will be shared after registration.*
 
 ---
 
-## 📝 📢 Register Now
+---
 
-<p align="center">
-  👉 <a href="https://forms.gle/eeijRLrDReZF2WMG7"><b>CLICK HERE TO REGISTER</b></a>
-</p>
 
 ---
 
-## 📞 📲 Contact
 
-- 📱 **Phone:** 9700712459  
 
----
-
-## ⭐ 💡 Why Learn With KASTRO?
-
-✨ Real-time, hands-on training  
-✨ Industry-focused curriculum  
-✨ Project-based learning approach  
-✨ Designed for **job readiness**  
-
----
-
-## ⚡ Limited Seats!
-
-> 🚨 *Enroll early to secure your spot in Batch 09!*
