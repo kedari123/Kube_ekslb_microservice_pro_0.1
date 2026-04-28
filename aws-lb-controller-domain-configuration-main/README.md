@@ -6,14 +6,7 @@
 
 ## 📌 📚 Training Overview
 
-| 🏷️ Feature        | 📖 Details |
-|------------------|----------|
-| 🧑‍💻 **Batch**     | JDKT Batch 09 |
-| 📅 **Start Date** | 07 May 2025 |
-| ⏰ **Timings**    | 7:30 AM – 9:00 AM |
-| 📆 **Schedule**   | Monday – Friday *(Occasional Saturdays)* |
-| ⏳ **Duration**   | 50–55 Days |
-| 💰 **Fee**        | ₹9000 |
+
 
 ---
 
